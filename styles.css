@@ -1,0 +1,21 @@
+:root {
+    --bodyBg: #ccc;
+}
+
+body {
+    background-color: var(--bodyBg)
+}
+
+main {
+    position: relative;
+    width: 1000px;
+    height: 750px;
+    top: 10vh;
+}
+
+form{
+    width: 330px;
+    margin: auto !important;
+    align-items:center;
+    justify-content:center;
+}
